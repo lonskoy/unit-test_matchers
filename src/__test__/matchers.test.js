@@ -1,4 +1,4 @@
-const healthAll = require('../matchers');
+import healthAll from "../matchers";
 
 test('Test Sort Health', () => {
 
